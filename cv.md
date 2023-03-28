@@ -6,7 +6,7 @@
 
 ## Contacts:
 
-* **Phone:** +48 511 944 381
+* **Phone:** +48 780 777 365
 * **E-mail:** *malinowski.serj@gmail.com*
 * [**Discord Account**](https://discord.com/users/1077882432335925308)
 
@@ -26,6 +26,50 @@ I am currently learning Angular, and am excited to continue expanding my knowled
 As a dedicated and motivated frontend junior developer, I am eager to contribute my skills and knowledge to a dynamic team. 
 I am excited to continue learning and growing in the industry, and am eager to take on new challenges and projects.
 
+***
 
+## Skills:
+
+- HTML
+- CSS / SCSS
+- JavaScript
+- Angular (Basic)
+- Git
+- Jenkins
+
+***
+
+## Code example:
+
+```ecmascript 6
+
+const words = ['apple', 'banana', 'orange', 'pear', 'kiwi'];
+
+// Sorts the words array in alphabetical order
+// Filters out words that start with 'o'
+// Creates a new array containing the length of each remaining word
+const result = words.sort()
+    .filter(word => !word.startsWith('o'))
+    .map(word => word.length);
+
+console.log(result); // Output: [5, 6, 4]
+
+
+```
+***
+
+## Education:
+
+- [Udemy](https://www.udemy.com/)
+- [Learn JavaScript](https://learnjavascript.online/)
+- [RS School](https://app.rs.school/)
+
+***
+
+## Languages:
+
+- **Russian** - Native
+- **English** - Intermediate
+- **Polish** - Basic
 
 
