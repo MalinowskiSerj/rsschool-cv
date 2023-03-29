@@ -1,2 +1,4 @@
 # rsschool-cv
-CV
+[CV MD](https://malinowskiserj.github.io/rsschool-cv/cv)
+
+[CV HTML](https://malinowskiserj.github.io/rsschool-cv)
